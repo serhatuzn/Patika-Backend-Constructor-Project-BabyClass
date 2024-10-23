@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Constructor Project (Baby Class)\Constructor Project (Baby Class)\bin\Debug\net8.0\Constructor Project (Baby Class).exe
+C:\Users\User\Desktop\Constructor Project (Baby Class)\Constructor Project (Baby Class)\bin\Debug\net8.0\Constructor Project (Baby Class).deps.json
+C:\Users\User\Desktop\Constructor Project (Baby Class)\Constructor Project (Baby Class)\bin\Debug\net8.0\Constructor Project (Baby Class).runtimeconfig.json
+C:\Users\User\Desktop\Constructor Project (Baby Class)\Constructor Project (Baby Class)\bin\Debug\net8.0\Constructor Project (Baby Class).dll
+C:\Users\User\Desktop\Constructor Project (Baby Class)\Constructor Project (Baby Class)\bin\Debug\net8.0\Constructor Project (Baby Class).pdb
+C:\Users\User\Desktop\Constructor Project (Baby Class)\Constructor Project (Baby Class)\obj\Debug\net8.0\Constructor Project (Baby Class).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Constructor Project (Baby Class)\Constructor Project (Baby Class)\obj\Debug\net8.0\Constructor Project (Baby Class).AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Constructor Project (Baby Class)\Constructor Project (Baby Class)\obj\Debug\net8.0\Constructor Project (Baby Class).AssemblyInfo.cs
+C:\Users\User\Desktop\Constructor Project (Baby Class)\Constructor Project (Baby Class)\obj\Debug\net8.0\Constructor Project (Baby Class).csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Constructor Project (Baby Class)\Constructor Project (Baby Class)\obj\Debug\net8.0\Constructor Project (Baby Class).sourcelink.json
+C:\Users\User\Desktop\Constructor Project (Baby Class)\Constructor Project (Baby Class)\obj\Debug\net8.0\Constructor Project (Baby Class).dll
+C:\Users\User\Desktop\Constructor Project (Baby Class)\Constructor Project (Baby Class)\obj\Debug\net8.0\refint\Constructor Project (Baby Class).dll
+C:\Users\User\Desktop\Constructor Project (Baby Class)\Constructor Project (Baby Class)\obj\Debug\net8.0\Constructor Project (Baby Class).pdb
+C:\Users\User\Desktop\Constructor Project (Baby Class)\Constructor Project (Baby Class)\obj\Debug\net8.0\Constructor Project (Baby Class).genruntimeconfig.cache
+C:\Users\User\Desktop\Constructor Project (Baby Class)\Constructor Project (Baby Class)\obj\Debug\net8.0\ref\Constructor Project (Baby Class).dll
